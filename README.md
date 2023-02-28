@@ -6,6 +6,6 @@ soon
 
 #### Recently
 
-Tech stuff in Her Majesty’s Prison & Probation Service ([@ministryofjustice](https://github.com/ministryofjustice))
+Tech stuff in His Majesty’s Prison & Probation Service ([@ministryofjustice](https://github.com/ministryofjustice))
 
 Worked on a service that supports probation staff referring people on probation to rehabilitative services.
