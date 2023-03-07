@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-#### Currently
+Currently software development at [Easol](https://github.com/easolhq).
 
-Software development [Easol](https://github.com/easolhq).
-
-#### Recently
+#### Previously
 
 Tech stuff in His Majesty’s Prison & Probation Service ([@ministryofjustice](https://github.com/ministryofjustice))
 
