@@ -2,7 +2,7 @@
 
 #### Currently
 
-soon
+Software development [Easol](https://github.com/easolhq).
 
 #### Recently
 
