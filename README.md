@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently looking for work ✨
+Currently at [Cleo](https://github.com/meetcleo).
 
 #### Previously
 
